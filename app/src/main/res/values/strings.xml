@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TranslateNow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="home_title">Home</string>
+    <string name="learn_title">Learn</string>
+    <string name="practice_title">Practice</string>
+    <string name="settings_title">Settings</string>
+
+</resources>
